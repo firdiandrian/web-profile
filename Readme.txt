@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Thank you for visiting this project!
 
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is a personal profile web project designed to display information about myself, portfolio, and contacts. 
+By using modern web technologies such as HTML, CSS, JavaScript and Web3Form. 
+This web profile provides an interesting and informative experience for visitors.
